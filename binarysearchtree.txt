@@ -1,0 +1,14 @@
+Dizinin dokuzuncu elemanı olan 2, root elemanımız olan 6'dan küçük olduğu için, 6'nın sol düğümüne geçecek. Sol düğümdeki 5 ile karşılaştırılıp, 
+5'ten küçük olduğu için 5'in sol düğümüne geçecek. 
+Sol düğümdeki 1 ile karşılaştırılıp, 1'den büyük olduğu için 1'in sağ düğümüne geçecek. Sağ düğümdeki 3 ile karşılaştırılıp, 
+3'den küçük olduğu için 3'ün sol düğümünde kendine yer alacak.
+
+                6
+            /       \
+        5               7
+    /                       \
+1                               8
+    \                               \
+        3                               9
+    /       \
+2              4
